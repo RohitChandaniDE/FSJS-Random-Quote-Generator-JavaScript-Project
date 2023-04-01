@@ -1,0 +1,47 @@
+body {
+    background-color: #F9F9F9;
+    font-family: Arial, sans-serif;
+    max-width: 90rem;
+    margin: auto;
+  }
+  
+  .container {
+    max-width: 600px;
+    height: 270px;
+    padding-top: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+    background: linear-gradient(#D16BA5, #86A8E7, #5FFBF1);
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  #quote {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  #generate-btn {
+    background-color: #35BDD0;
+    color: #FFFFFF;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .btn {
+    margin-left: 550px;
+  }
+  
+  
+  
